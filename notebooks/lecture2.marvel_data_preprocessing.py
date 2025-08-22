@@ -7,6 +7,7 @@
 # from pathlib import Path
 # import sys
 # sys.path.append(str(Path.cwd().parent / 'src'))
+print("Hello, Marvel!")
 
 # COMMAND ----------
 import pandas as pd
